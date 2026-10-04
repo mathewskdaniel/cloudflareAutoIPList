@@ -79,15 +79,21 @@ Custom IPs are useful when accessing the sites from somewhere other than the hom
 
 ### Main menu
 
-<img width="483" height="233" alt="image" src="https://github.com/user-attachments/assets/5eccad17-0a42-4c04-946f-3317050aa574" />
+<p align="center">
+  <img width="500" alt="Main menu" src="https://github.com/user-attachments/assets/5eccad17-0a42-4c04-946f-3317050aa574" />
+</p>
 
 ### IP list
 
-<img width="1273" height="1236" alt="image" src="https://github.com/user-attachments/assets/0e6c907b-63d3-4110-8535-0990851a784f" />
+<p align="center">
+  <img width="500" alt="IP list" src="https://github.com/user-attachments/assets/0e6c907b-63d3-4110-8535-0990851a784f" />
+</p>
 
 ### Status
 
-<img width="1760" height="894" alt="image" src="https://github.com/user-attachments/assets/9140f8f5-66b8-4939-bca7-19b2a09a24cd" />
+<p align="center">
+  <img width="500" alt="Status" src="https://github.com/user-attachments/assets/9140f8f5-66b8-4939-bca7-19b2a09a24cd" />
+</p>
 
 ## Running
 
