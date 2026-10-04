@@ -57,7 +57,7 @@ ALLOWED_USERS="12345 67890"
 HOME_COMMENT="managed-home-ip"
 CUSTOM_COMMENT="managed-custom-ip"
 
-A `config.env.example` file can be used as a template.
+Included `config.env.example` file can be renamed to config.env and used as a template. Contains instructions as well. 
 
 ## Telegram
 
